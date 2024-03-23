@@ -35,4 +35,5 @@ Resumo para aprender e memorizar os "md", a sintaxe do Git e Git Hub e como usá
 -**Commit:** Um commit no Git é uma operação que registra as mudanças feitas nos arquivos do seu projeto. É como tirar uma fotografia do estado atual do seu código e salvar essa imagem no histórico do projeto.
 - git add nome_do_arquivo_modificado
 - git commit -m "Mensagem descrevendo as alterações feitas"
-	
+
+-**.Gitkeep:** é para o Git reconhecer um diretório vazio
