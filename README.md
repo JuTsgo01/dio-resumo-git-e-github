@@ -37,3 +37,5 @@ Resumo para aprender e memorizar os "md", a sintaxe do Git e Git Hub e como usá
 - git commit -m "Mensagem descrevendo as alterações feitas"
 
 -**.Gitkeep:** é para o Git reconhecer um diretório vazio
+
+-**rm -rf:** Usado para remover a força um vercionamento (.git) dentro de uma pasta
