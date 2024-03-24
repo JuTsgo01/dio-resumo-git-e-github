@@ -49,7 +49,7 @@ Resumo para aprender e memorizar os "md", a sintaxe do Git e Git Hub e como usá
 - **Git commit --amend -m "nova mensagem":** Usamos para alterar a ultima mensagem do ultimo commit de um arquivo
 
 - **Git reset --(soft, mixed e hard) + hash do commit:**
- - **Soft:**Basicamente, o que esse comando nos dá é estarmos na ação posterior ao commit do hash selecionado; Ou seja, se fizemos um commit e depois estavmos em preparação de outro commit, esse comando nos leva a preparação do commit que iriamos fazer;
- - **Mixed:** Poderiamos usar apenas "git reset" que dariamos no mesmo. Diferente do soft, nesse caso, ele não estaria na espera de preparação ou espera de um commit, ele nos levaria para a tela onde os arquivos do commit posterios estavam como "untrecked" e não aguardando commit, ou seja, ainda estaria na tela onde teriamos que usar "git add ." e depois  usarmos o "git commit -m"mensagem desejada";
- - **Git reset <file> ou fit reset -- staged<file>**: remove o arquivo da arvore de preparação para area do "untracked"
+  - - **Soft:**Basicamente, o que esse comando nos dá é estarmos na ação posterior ao commit do hash selecionado; Ou seja, se fizemos um commit e depois estavmos em preparação de outro commit, esse comando nos leva a preparação do commit que iriamos fazer;
+  - - **Mixed:** Poderiamos usar apenas "git reset" que dariamos no mesmo. Diferente do soft, nesse caso, ele não estaria na espera de preparação ou espera de um commit, ele nos levaria para a tela onde os arquivos do commit posterios estavam como "untrecked" e não aguardando commit, ou seja, ainda estaria na tela onde teriamos que usar "git add ." e depois  usarmos o "git commit -m"mensagem desejada";
+  - - **Git reset <file> ou fit reset -- staged<file>**: remove o arquivo da arvore de preparação para area do "untracked"
     
